@@ -1,0 +1,7 @@
+{
+  "name": "verdadeEvida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
