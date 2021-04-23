@@ -50,6 +50,10 @@ const routes: Routes = [
   {
     path: 'tema9',
     loadChildren: () => import('./paginas/tema9/tema9.module').then( m => m.Tema9PageModule)
+  },
+  {
+    path: 'tema10',
+    loadChildren: () => import('./paginas/tema10/tema10.module').then( m => m.Tema10PageModule)
   }
 ];
 
