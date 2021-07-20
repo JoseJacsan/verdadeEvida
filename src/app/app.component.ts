@@ -18,7 +18,8 @@ export class AppComponent {
     { title: 'Tema 9', url: '/tema9', icon: 'book' },
     { title: 'Tema 10', url: '/tema10', icon: 'book' },
     { title: 'Tema 11', url: '/tema11', icon: 'book' },
-    { title: 'Tema 12', url: '/tema12', icon: 'book' }
+    { title: 'Tema 12', url: '/tema12', icon: 'book' },
+    { title: 'Tema 13', url: '/tema13', icon: 'book' }
 
   ];
 

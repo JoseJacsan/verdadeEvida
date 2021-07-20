@@ -18,7 +18,7 @@ export class Tema12Page implements OnInit {
   }
 
   avancar() {
-    this.nav.navigateForward('tema12');
+    this.nav.navigateForward('tema13');
   }
 
 }
