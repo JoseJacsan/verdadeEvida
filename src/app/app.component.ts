@@ -19,7 +19,11 @@ export class AppComponent {
     { title: 'Tema 10', url: '/tema10', icon: 'book' },
     { title: 'Tema 11', url: '/tema11', icon: 'book' },
     { title: 'Tema 12', url: '/tema12', icon: 'book' },
-    { title: 'Tema 13', url: '/tema13', icon: 'book' }
+    { title: 'Tema 13', url: '/tema13', icon: 'book' },
+    { title: 'Tema 14', url: '/tema14', icon: 'book' },
+    { title: 'Tema 15', url: '/tema15', icon: 'book' },
+    { title: 'Tema 16', url: '/tema16', icon: 'book' }
+
 
   ];
 
