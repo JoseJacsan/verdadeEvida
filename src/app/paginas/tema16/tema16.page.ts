@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NavController } from '@ionic/angular';
 
 @Component({
   selector: 'app-tema16',
@@ -7,9 +8,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Tema16Page implements OnInit {
 
-  constructor() { }
+  constructor(public nav: NavController) { }
 
   ngOnInit() {
+  }
+
+  voltar() {
+    this.nav.navigateForward('tema15');
+  }
+
+  avancar() {
+    this.nav.navigateForward('tema17');
   }
 
 }

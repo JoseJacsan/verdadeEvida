@@ -22,8 +22,12 @@ export class AppComponent {
     { title: 'Tema 13', url: '/tema13', icon: 'book' },
     { title: 'Tema 14', url: '/tema14', icon: 'book' },
     { title: 'Tema 15', url: '/tema15', icon: 'book' },
-    { title: 'Tema 16', url: '/tema16', icon: 'book' }
-
+    { title: 'Tema 16', url: '/tema16', icon: 'book' },
+    { title: 'Tema 17', url: '/tema17', icon: 'book' },
+    { title: 'Tema 18', url: '/tema18', icon: 'book' },
+    { title: 'Tema 19', url: '/tema19', icon: 'book' },
+    { title: 'Tema 20', url: '/tema20', icon: 'book' },
+    { title: 'Tema 21', url: '/tema21', icon: 'book' }
 
   ];
 
